@@ -10,6 +10,23 @@ p {
     line-height: 20px;
 }
 
+.btn {
+    border: 3px solid #fec63e;
+    padding: 10px 30px;
+    color: #fec63e;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+}
+
+.btn:hover {
+    color: #fff;
+    border-color: #FFF;
+    transition-duration: 500ms;
+}
+
 /* Header */
 
 .header {
