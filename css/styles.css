@@ -4,6 +4,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+p {
+    font-family: georgia, "Times New Roman", serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+
 /* Header */
 
 .header {
