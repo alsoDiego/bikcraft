@@ -27,6 +27,11 @@ p {
     transition-duration: 500ms;
 }
 
+.btn.btn-preto:hover {
+    color: #000;
+    border-color: #000;
+}
+
 /* Header */
 
 .header {
