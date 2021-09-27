@@ -24,7 +24,7 @@ p {
 .btn:hover {
     color: #fff;
     border-color: #FFF;
-    transition-duration: 500ms;
+    transition-duration: 800ms;
 }
 
 .btn.btn-preto:hover {
@@ -85,7 +85,7 @@ p {
 
 .header_menu ul li a:hover {
     color: #FFF;
-    transition-duration: 500ms;
+    transition-duration: 800ms;
 }
 
 /* Introdução */
