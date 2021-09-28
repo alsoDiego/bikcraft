@@ -325,8 +325,8 @@ img {
 }
 
 .footer_redes ul li a:hover {
-    border: 3px solid #FFF;
-    transition-duration: 800ms;
+    border-radius: 0 18px 18px 18px;
+    transition-duration: 400ms;
 }
 
 .footer_copyrights {
