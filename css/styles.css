@@ -364,6 +364,36 @@ img {
     margin: 8px auto 10px auto;
 }
 
+.sobre_conteudo {
+    padding-top: 60px;
+}
+
+.sobre_conteudo .subtitulo {
+    text-align: left;
+}
+
+.sobre_conteudo .subtitulo:after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background: #000;
+    margin: 6px 0 12px 0;
+}
+
+.sobre_conteudo p, .sobre_conteudo ul {
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+.sobre_conteudo p {
+    max-width: 520px;
+}
+
+.sobre_conteudo img {
+    margin-top: 40px;
+}
+
 .qualidade_sobre {
     width: 100%;
     height: 422px;
