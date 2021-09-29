@@ -388,6 +388,11 @@ img {
 
 .sobre_conteudo p {
     max-width: 520px;
+    margin-top: 20px;
+}
+
+.sobre_conteudo p:first-child {
+    margin-top: 0;
 }
 
 .sobre_conteudo img {
