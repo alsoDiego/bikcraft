@@ -395,6 +395,10 @@ img {
     margin-top: 0;
 }
 
+.sobre_conteudo ul {
+    line-height: 1.5em;
+}
+
 .sobre_conteudo img {
     margin-top: 40px;
 }
