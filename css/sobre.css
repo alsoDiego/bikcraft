@@ -9,27 +9,12 @@
     padding-top: 60px;
 }
 
-.sobre_conteudo .subtitulo {
-    text-align: left;
-}
-
-.sobre_conteudo .subtitulo:after {
-    content: "";
-    display: block;
-    width: 60px;
-    height: 3px;
-    background: #000;
-    margin: 6px 0 12px 0;
-}
-
-.sobre_conteudo p, .sobre_conteudo ul {
-    font-size: 18px;
-    font-family: Georgia, 'Times New Roman', serif;
-}
-
 .sobre_conteudo p {
+    font-family: Georgia, 'Times New Roman', serif;
     max-width: 520px;
-    margin-top: 20px;
+    font-size: 18px;
+    margin-top: 1em;
+    line-height: 25px;
 }
 
 .sobre_conteudo p:first-child {
@@ -37,11 +22,13 @@
 }
 
 .sobre_conteudo ul {
-    line-height: 1.5em;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 18px;
+    line-height: 30px;
 }
 
-.sobre_conteudo img {
-    margin-top: 40px;
+.foto-equipe {
+    padding-top: 20px;
 }
 
 .qualidade_sobre {
