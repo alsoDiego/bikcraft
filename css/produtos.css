@@ -4,3 +4,9 @@
     background: url(../img/bg-produtos.jpg) no-repeat center;
     background-size: cover;
 }
+
+/* Produtos - Conteúdo */
+
+.produtos_conteudo {
+    padding-top: 60px;
+}
