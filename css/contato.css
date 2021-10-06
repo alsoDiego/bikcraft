@@ -46,6 +46,13 @@
     margin-top: 10px;
 }
 
+.form .btn:hover{
+    border: 3px solid #fec63e;
+    border-radius: 0 12px 12px 12px;
+    transition-duration: 400ms;
+    color: #fec63e;
+}
+
 .contato_dados h3 {
     font-size: 18px;
     line-height: 25px;
