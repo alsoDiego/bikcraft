@@ -66,7 +66,10 @@
         margin-bottom: 20px;
     }
 
-
+    /* Qualidade */
+    .qualidade:after {
+        display: none;
+    }
 
 
 
