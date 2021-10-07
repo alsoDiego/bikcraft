@@ -70,6 +70,12 @@
         margin-bottom: 20px;
     }
 
+    /* Introdução Interna */
+
+    .introducao-interna {
+        margin-top: 0;
+    }
+
     /* Qualidade */
     .qualidade:after {
         display: none;
