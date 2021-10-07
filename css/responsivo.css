@@ -75,6 +75,11 @@
         padding-top: 10px;
     }
 
+    /* Footer */
+    .footer {
+        height: auto;
+    }
+
 
 
 }
