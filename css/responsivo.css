@@ -19,6 +19,27 @@
         width: 26px;
         height: 26px;
     }
+
+    /* Produtos */
+    .produtos_conteudo h2 {
+        top: -150px;
+    }
+
+    .produto_icone {
+        padding: 41px 0;
+    }
+
+    .produto_info p {
+        font-size: 14px;
+        line-height: 20px;
+        height: 122px;
+        padding: 20px 30px;
+    }
+    
+    .produto_info ul li {
+        width: 181px;
+    }
+
 }
 
 /* ---------------- Smartphone ---------------- */
