@@ -81,6 +81,10 @@
         display: none;
     }
 
+    .qualidade {
+        padding: 30px 0;
+    }
+
     .call-to-action {
         padding-top: 10px;
     }
