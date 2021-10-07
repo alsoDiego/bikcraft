@@ -10,11 +10,15 @@
         padding: 0 10px;
     }
 
+    /* Footer */
+    .footer_redes ul li a {
+        padding: 6px;
+    }
 
-
-
-
-
+    .footer_redes ul li a img {
+        width: 26px;
+        height: 26px;
+    }
 }
 
 /* ---------------- Smartphone ---------------- */
