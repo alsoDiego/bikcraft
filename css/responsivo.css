@@ -4,6 +4,7 @@
 /* ---------------- Smartphone ---------------- */
 @media only screen and (max-width: 787px) {
 
+    /* Header */
     .header {
         position: relative;
         padding-bottom: 0px;
@@ -32,4 +33,19 @@
         border-color: #fff;
         transition-duration: 300ms;
     }
+
+    /* Introdução */
+    .introducao {
+        margin-top: 0px;
+        padding-top: 20px;
+        background: url(../img/bg-mobile.jpg) no-repeat center top;
+        background-size: cover;
+    }
+
+
+
+
+
+
+
 }
