@@ -19,12 +19,12 @@
     }
 
     .header_menu ul li {
-        margin: 0;
+        margin: 0 5px 5px 5px;
     }
 
     .header_menu ul li a {
         border: 4px solid #000;
-        width: 140px;
+        width: 136px;
         display: block;
         float: left;
     }
@@ -40,6 +40,10 @@
         padding-top: 20px;
         background: url(../img/bg-mobile.jpg) no-repeat center top;
         background-size: cover;
+    }
+
+    .introducao .quote-externo {
+        margin-bottom: 20px;
     }
 
 
