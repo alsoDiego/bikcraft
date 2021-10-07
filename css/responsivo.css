@@ -54,6 +54,10 @@
         transition-duration: 300ms;
     }
 
+    .header_menu ul li a.menu_ativo {
+        border-color: #FFF;
+    }
+
     /* Introdução */
     .introducao {
         margin-top: 0px;
